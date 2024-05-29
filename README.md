@@ -15,7 +15,7 @@ Cyclone's primary audience consists of individuals seeking to reduce their waste
 ### Features
 
 1. The application must have an User-Friendly Interface that is easy-to-navigate for users of all ages and technical backgrounds.
-2. The application must have a waste Logging System that alloow users to log different types of waste manually.
+2. The application must have a waste Logging System that allow users to log different types of waste manually.
 3. The application must have a personalized Dashboard that shows waste statistics, trends, and areas for improvement.
 4. The application must give sustainability Tips and Challenge to engage users and promote better habits.
 
@@ -39,11 +39,18 @@ List any external sources of data that will be used in your app.
 - Dashboard Page
     |_User's waste consumption
 - Waste Logging Page
-    |_Form that allow user to log in their wate comsumption.
+    |_Form that allow user to log in their waste consumption.
 
 ### Mockups
 
-Provide visuals of your app's screens. You can use tools like Figma or pictures of hand-drawn sketches.
+Visuals of your app's screens. You can use tools like Figma or pictures of hand-drawn sketches.
+1. Homepage
+![image](./src//assets/1.jpg)
+2. Dashboard Page
+![image](./src//assets/2.jpg)
+3. Waste Logging Page
+![image](./src//assets/3.jpg)
+
 
 ### Data
 
