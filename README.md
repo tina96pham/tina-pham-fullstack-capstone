@@ -28,8 +28,7 @@ Cyclone's primary audience consists of individuals seeking to reduce their waste
 - Database: MySQL
 - Visualization : D3.js
 ### APIs
-
-List any external sources of data that will be used in your app.
+- The API will be built specifically for this project.
 
 ### Sitemap
 
@@ -59,7 +58,20 @@ Describe your data and the relationships between them. You can show this visuall
 ### Endpoints
 
 List endpoints that your server will implement, including HTTP methods, parameters, and example responses.
-/
+GET /waste-details
+GET /waste-details/:id
+{
+    "id": 1 
+    "name": "Plastic Bottle",
+    "description": "funfact"
+    "disposal": " proper way to dipose product"
+    "image": ./image;
+    "category": "Plastic"
+    "waste": 0.5;
+    "waste_type": "kg"
+    "cmu": 0.1
+}
+
 
 ### Auth
 
