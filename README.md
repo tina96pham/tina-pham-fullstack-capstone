@@ -33,12 +33,12 @@ Cyclone's primary audience consists of individuals seeking to reduce their waste
 ### Sitemap
 
 - HomePage:
-    |_Heroes components
-    |_Facts about products consumption and waste generate
+<p>    |_Heroes components
+<p>    |_Facts about products consumption and waste generate
 - Dashboard Page
-    |_User's waste consumption
+<p>    |_User's waste consumption
 - Waste Logging Page
-    |_Form that allow user to log in their waste consumption.
+<p>    |_Form that allow user to log in their waste consumption.
 
 ### Mockups
 
